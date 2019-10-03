@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Volume Schedule</string>
+    <string name="silent">Set Silent</string>
+    <string name="normal">Set Normal</string>
+    <string name="reset">Reset</string>
+    <string name="SilentText">Volume going Silent at:</string>
+    <string name="NormalText">Volume going Normal at:</string>
+</resources>
